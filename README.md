@@ -13,7 +13,7 @@ Log fields format must be key=value or key="va lue"
 ## Prerequisites
 
 * An input log file formatted with key=value or key="va lue"
-* A working python environment or a Windows OS using the Windows binary file [laggregato_0.3.zip](bin/Windows/laggregato_0.3.zip).  
+* A working python environment or a Windows OS using the Windows binary file [laggregato_0.3.zip](bin/windows/laggregato_0.3.zip).  
 
 ## Todo list
 
